@@ -5,4 +5,5 @@ package com.learnexo.pushup;
  */
 
 public class TestAddFile {
+  private int x=0;
 }
