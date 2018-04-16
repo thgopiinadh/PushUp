@@ -8,4 +8,6 @@ public class TestAddFile {
   private int x=0;
 
   private int y=1;
+
+  private int z=2;
 }
