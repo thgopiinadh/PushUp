@@ -5,9 +5,9 @@ package com.learnexo.pushup;
  */
 
 public class TestAddFile {
-  private int x=00;
+  private int x=000;
 
-  private int y=01;
+  private int y=001;
 
-  private int z=02;
+  private int z=002;
 }
